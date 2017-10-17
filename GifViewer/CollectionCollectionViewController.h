@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CollectionCollectionViewController.h
 //  GifViewer
 //
 //  Created by Leticia Rodriguez on 10/16/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CollectionCollectionViewController : UICollectionViewController
 
 @end
-
